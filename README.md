@@ -120,10 +120,3 @@ g++ -std=c++17 -O2 -Wall -Wextra src/main.cpp -o transport
 
 ---
 
-## 👤 Автор
-
-**Natachiazza** — [GitHub](https://github.com/Natachiazza)
-
-## 📜 Лицензия
-
-MIT — см. [LICENSE](LICENSE)
